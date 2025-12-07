@@ -2,7 +2,6 @@ import React, {useEffect, useState} from "react";
 import "./User.css";
 import axios from "axios";
 import { Link } from "react-router-dom";
-import { set } from "mongoose";
 import toast from "react-hot-toast";
 
 const User = () => {

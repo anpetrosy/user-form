@@ -1,0 +1,29 @@
+.table-container {
+    width: 60%;
+    margin: 50px auto;
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.065);
+}
+
+.table-container .table {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.table-container .table thead th {
+    background-color: rgb(203, 214, 224);
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table-container .table tbody td {
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.action-buttons button {
+    margin: 0 10px;
+}
